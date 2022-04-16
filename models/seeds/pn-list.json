@@ -1,0 +1,806 @@
+[
+ {
+  "customerPN": "M101R1A0001",
+  "spec": "RES,75 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X75R0FTL"
+ },
+ {
+  "customerPN": "M101R1A0002",
+  "spec": "RES,10K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1002FTL"
+ },
+ {
+  "customerPN": "M101R1A0003",
+  "spec": "RES,100 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1000FTL"
+ },
+ {
+  "customerPN": "M101R1A0004",
+  "spec": "RES,2K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2001FTL"
+ },
+ {
+  "customerPN": "M101R1A0005",
+  "spec": "RES,1K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1001FTL"
+ },
+ {
+  "customerPN": "M101R1A0011",
+  "spec": "RES,33 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X33R0FTL"
+ },
+ {
+  "customerPN": "M101R1A0012",
+  "spec": "RES,200 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2000FTL"
+ },
+ {
+  "customerPN": "M101R1A0017",
+  "spec": "RES,49.9 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X49R9FTL"
+ },
+ {
+  "customerPN": "M101R1A0021",
+  "spec": "RES,100K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1003FTL"
+ },
+ {
+  "customerPN": "M101R1A0022",
+  "spec": "RES,1.5K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1501FTL"
+ },
+ {
+  "customerPN": "M101R1A0025",
+  "spec": "RES,330 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X3300FTL"
+ },
+ {
+  "customerPN": "M101R1A0028",
+  "spec": "RES,1 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.014,
+  "CTIPN": "WR04W1R00FTL"
+ },
+ {
+  "customerPN": "M101R1A0030",
+  "spec": "RES,1M Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1004FTL"
+ },
+ {
+  "customerPN": "M101R1A0033",
+  "spec": "RES,150 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1500FTL"
+ },
+ {
+  "customerPN": "M101R1A0037",
+  "spec": "RES,20K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2002FTL"
+ },
+ {
+  "customerPN": "M101R1A0038",
+  "spec": "RES,22.6 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X22R6FTL"
+ },
+ {
+  "customerPN": "M101R1A0043",
+  "spec": "RES,270 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2700FTL"
+ },
+ {
+  "customerPN": "M101R1A0046",
+  "spec": "RES,750 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X7500FTL"
+ },
+ {
+  "customerPN": "M101R1A0049",
+  "spec": "RES,51 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X51R0FTL"
+ },
+ {
+  "customerPN": "M101R1A0070",
+  "spec": "RES,4.7K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X4701FTL"
+ },
+ {
+  "customerPN": "M101R1A0074",
+  "spec": "RES,698 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X6980FTL"
+ },
+ {
+  "customerPN": "M101R1A0075",
+  "spec": "RES,51.1K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X5112FTL"
+ },
+ {
+  "customerPN": "M101R1A0077",
+  "spec": "RES,2.49K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2491FTL"
+ },
+ {
+  "customerPN": "M101R1A0078",
+  "spec": "RES,12K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1202FTL"
+ },
+ {
+  "customerPN": "M101R1A0079",
+  "spec": "RES,619 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X6190FTL"
+ },
+ {
+  "customerPN": "M101R1A0080",
+  "spec": "RES,357 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X3570FTL"
+ },
+ {
+  "customerPN": "M101R1A0081",
+  "spec": "RES,1.78K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1781FTL"
+ },
+ {
+  "customerPN": "M101R1A0083",
+  "spec": "RES,14.7K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1472FTL"
+ },
+ {
+  "customerPN": "M101R1A0084",
+  "spec": "RES,61.9K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X6192FTL"
+ },
+ {
+  "customerPN": "M101R1A0085",
+  "spec": "RES,31.6K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X3162FTL"
+ },
+ {
+  "customerPN": "M101R1A0087",
+  "spec": "RES,4.32K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X4321FTL"
+ },
+ {
+  "customerPN": "M101R1A0090",
+  "spec": "RES,240 ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2400FTL"
+ },
+ {
+  "customerPN": "M101R1A0091",
+  "spec": "RES,475 ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X4750FTL"
+ },
+ {
+  "customerPN": "M101R1A0095",
+  "spec": "RES,620 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X6200FTL"
+ },
+ {
+  "customerPN": "M101R1A0101",
+  "spec": "RES,4.75K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X4751FTL"
+ },
+ {
+  "customerPN": "M101R1A0102",
+  "spec": "RES,60.4 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.009,
+  "CTIPN": "WR04X60R4FTL"
+ },
+ {
+  "customerPN": "M101R1A0104",
+  "spec": "RES,220 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X2200FTL"
+ },
+ {
+  "customerPN": "M101R1A0105",
+  "spec": "RES,36 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X36R0FTL"
+ },
+ {
+  "customerPN": "M101R1A0106",
+  "spec": "RES,39 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X39R0FTL"
+ },
+ {
+  "customerPN": "M101R1A0107",
+  "spec": "RES,5.1 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.014,
+  "CTIPN": "WR04W5R10FTL"
+ },
+ {
+  "customerPN": "M101R1A0108",
+  "spec": "RES,7.5K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X7501FTL"
+ },
+ {
+  "customerPN": "M101R1A0109",
+  "spec": "RES,5.76K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X5761FTL"
+ },
+ {
+  "customerPN": "M101R1A0110",
+  "spec": "RES,47.5K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X4752FTL"
+ },
+ {
+  "customerPN": "M101R1A0111",
+  "spec": "RES,10 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X10R0FTL"
+ },
+ {
+  "customerPN": "M101R1A0116",
+  "spec": "RES,75K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X7502FTL"
+ },
+ {
+  "customerPN": "M101R1A0119",
+  "spec": "RES,191 Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X1910FTL"
+ },
+ {
+  "customerPN": "M101R1A0120",
+  "spec": "RES,3.9K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X3901FTL"
+ },
+ {
+  "customerPN": "M101R1A0175",
+  "spec": "RES,42.2K Ohm,1%,1\/16W,SMD0402",
+  "price": 0.008,
+  "CTIPN": "WR04X4222FTL"
+ },
+ {
+  "customerPN": "M101R1B0001",
+  "spec": "RES,4.7K Ohm,5%,1\/16W,SMD0402",
+  "price": 0.007,
+  "CTIPN": "WR04X472JTL"
+ },
+ {
+  "customerPN": "M101R1B0002",
+  "spec": "RES,1K Ohm,5%,1\/16W,SMD0402",
+  "price": 0.007,
+  "CTIPN": "WR04X102JTL"
+ },
+ {
+  "customerPN": "M101R1B0005",
+  "spec": "RES,22 Ohm,5%,1\/16W,SMD0402",
+  "price": 0.007,
+  "CTIPN": "WR04X220JTL"
+ },
+ {
+  "customerPN": "M101R1B0007",
+  "spec": "RES,0 Ohm,5%,1\/16W,SMD0402",
+  "price": 0.007,
+  "CTIPN": "WR04X000PTL"
+ },
+ {
+  "customerPN": "M101R1B0011",
+  "spec": "RES,10 Ohm,5%,1\/16W,SMD0402",
+  "price": 0.007,
+  "CTIPN": "WR04X100JTL"
+ },
+ {
+  "customerPN": "M101R1B0021",
+  "spec": "RES,2.2K Ohm,5%,1\/16W,SMD0402",
+  "price": 0.007,
+  "CTIPN": "WR04X222JTL"
+ },
+ {
+  "customerPN": "M102R1A0005",
+  "spec": "RES,19.6K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1962FTL"
+ },
+ {
+  "customerPN": "M102R1A0009",
+  "spec": "RES,2K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X2001FTL"
+ },
+ {
+  "customerPN": "M102R1A0010",
+  "spec": "RES,100K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1003FTL"
+ },
+ {
+  "customerPN": "M102R1A0011",
+  "spec": "RES,1.02K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1021FTL"
+ },
+ {
+  "customerPN": "M102R1A0013",
+  "spec": "RES,1K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1001FTL"
+ },
+ {
+  "customerPN": "M102R1A0018",
+  "spec": "RES,20K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X2002FTL"
+ },
+ {
+  "customerPN": "M102R1A0028",
+  "spec": "RES,11K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1102FTL"
+ },
+ {
+  "customerPN": "M102R1A0029",
+  "spec": "RES,75 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X75R0FTL"
+ },
+ {
+  "customerPN": "M102R1A0031",
+  "spec": "RES,4.7K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X4701FTL"
+ },
+ {
+  "customerPN": "M102R1A0039",
+  "spec": "RES,10K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1002FTL"
+ },
+ {
+  "customerPN": "M102R1A0054",
+  "spec": "RES,200K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X2003FTL"
+ },
+ {
+  "customerPN": "M102R1A0056",
+  "spec": "RES,475K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X4753FTL"
+ },
+ {
+  "customerPN": "M102R1A0057",
+  "spec": "RES,6.8 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.02,
+  "CTIPN": "WR06W6R80FTL"
+ },
+ {
+  "customerPN": "M102R1A0063",
+  "spec": "RES,6.8K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X6801FTL"
+ },
+ {
+  "customerPN": "M102R1A0065",
+  "spec": "RES,1.5K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1501FTL"
+ },
+ {
+  "customerPN": "M102R1A0068",
+  "spec": "RES,52.3K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X5232FTL"
+ },
+ {
+  "customerPN": "M102R1A0080",
+  "spec": "RES,1.74K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1741FTL"
+ },
+ {
+  "customerPN": "M102R1A0081",
+  "spec": "RES,13K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1302FTL"
+ },
+ {
+  "customerPN": "M102R1A0087",
+  "spec": "RES,220 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X2200FTL"
+ },
+ {
+  "customerPN": "M102R1A0092",
+  "spec": "RES,3.3K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X3301FTL"
+ },
+ {
+  "customerPN": "M102R1A0102",
+  "spec": "RES,5.1 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.02,
+  "CTIPN": "WR06W5R10FTL"
+ },
+ {
+  "customerPN": "M102R1A0114",
+  "spec": "RES,1.1K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1101FTL"
+ },
+ {
+  "customerPN": "M102R1A0117",
+  "spec": "RES,40.2K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X4022FTL"
+ },
+ {
+  "customerPN": "M102R1A0119",
+  "spec": "RES,2.2 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.02,
+  "CTIPN": "WR06W2R20FTL"
+ },
+ {
+  "customerPN": "M102R1A0120",
+  "spec": "RES,499 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X4990FTL"
+ },
+ {
+  "customerPN": "M102R1A0121",
+  "spec": "RES,30K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X3002FTL"
+ },
+ {
+  "customerPN": "M102R1A0122",
+  "spec": "RES,14K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1402FTL"
+ },
+ {
+  "customerPN": "M102R1A0123",
+  "spec": "RES,178K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1783FTL"
+ },
+ {
+  "customerPN": "M102R1A0124",
+  "spec": "RES,240K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X2403FTL"
+ },
+ {
+  "customerPN": "M102R1A0125",
+  "spec": "RES,56.2K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X5622FTL"
+ },
+ {
+  "customerPN": "M102R1A0126",
+  "spec": "RES,75K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X7502FTL"
+ },
+ {
+  "customerPN": "M102R1A0127",
+  "spec": "RES,249K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X2493FTL"
+ },
+ {
+  "customerPN": "M102R1A0128",
+  "spec": "RES,10 Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X10R0FTL"
+ },
+ {
+  "customerPN": "M102R1A0130",
+  "spec": "RES,300K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X3003FTL"
+ },
+ {
+  "customerPN": "M102R1B0001",
+  "spec": "RES,10K Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X103JTL"
+ },
+ {
+  "customerPN": "M102R1B0002",
+  "spec": "RES,0 Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X000PTL"
+ },
+ {
+  "customerPN": "M102R1B0003",
+  "spec": "RES,22 Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X220JTL"
+ },
+ {
+  "customerPN": "M102R1B0011",
+  "spec": "RES,100 Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X101JTL"
+ },
+ {
+  "customerPN": "M102R1B0014",
+  "spec": "RES,10 Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X100JTL"
+ },
+ {
+  "customerPN": "M102R1B0016",
+  "spec": "RES,1M Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X105JTL"
+ },
+ {
+  "customerPN": "M102R1B0024",
+  "spec": "RES,2.2 Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X2R2JTL"
+ },
+ {
+  "customerPN": "M102R1B0026",
+  "spec": "RES,390 Ohm,5%,1\/10W,SMD0603",
+  "price": 0.013,
+  "CTIPN": "WR06X391JTL"
+ },
+ {
+  "customerPN": "M102R1B0034",
+  "spec": "RES,13.7K Ohm,1%,1\/10W,SMD0603",
+  "price": 0.014,
+  "CTIPN": "WR06X1372FTL"
+ },
+ {
+  "customerPN": "M103R1A0001",
+  "spec": "RES,1M Ohm,1%,1\/8W,SMD0805",
+  "price": 0.03,
+  "CTIPN": "WR08X1004FTL"
+ },
+ {
+  "customerPN": "M103R1A0012",
+  "spec": "RES,10K Ohm,1%,1\/8W,SMD0805",
+  "price": 0.03,
+  "CTIPN": "WR08X1002FTL"
+ },
+ {
+  "customerPN": "M103R1B0000",
+  "spec": "RES,0 Ohm,5%,1\/8W,SMD0805",
+  "price": 0.027,
+  "CTIPN": "WR08X000PTL"
+ },
+ {
+  "customerPN": "M104R1A0000",
+  "spec": "RES,20 Ohm,1%,1\/4W,SMD1206",
+  "price": 0.048,
+  "CTIPN": "WR12X20R0FTL"
+ },
+ {
+  "customerPN": "M104R1A0004",
+  "spec": "RES,499K Ohm,1%,1\/4W,SMD1206",
+  "price": 0.048,
+  "CTIPN": "WR12X4993FTL"
+ },
+ {
+  "customerPN": "M104R1A0012",
+  "spec": "RES,120K Ohm,1%,1\/4W,SMD1206",
+  "price": 0.048,
+  "CTIPN": "WR12X1203FTL"
+ },
+ {
+  "customerPN": "M104R1A0014",
+  "spec": "RES,300 Ohm,1%,1\/4W,SMD1206",
+  "price": 0.048,
+  "CTIPN": "WR12X3000FTL"
+ },
+ {
+  "customerPN": "M104R1A0015",
+  "spec": "RES,5.62M Ohm,1%,1\/4W,SMD1206",
+  "price": 0.062,
+  "CTIPN": "WR12W5624FTL"
+ },
+ {
+  "customerPN": "M104R1A0016",
+  "spec": "RES,10K Ohm,1%,1\/4W,SMD1206",
+  "price": 0.048,
+  "CTIPN": "WR12X1002FTL"
+ },
+ {
+  "customerPN": "M104R1A0017",
+  "spec": "RES,10 Ohm,1%,1\/4W,SMD1206",
+  "price": 0.048,
+  "CTIPN": "WR12X10R0FTL"
+ },
+ {
+  "customerPN": "M104R1B0000",
+  "spec": "RES,0 Ohm,5%,1\/4W,SMD1206",
+  "price": 0.046,
+  "CTIPN": "WR12X000PTL"
+ },
+ {
+  "customerPN": "M108R1B0002",
+  "spec": "RP,0 Ohm,5%,8P4R,1\/16W,SMD0402",
+  "price": 0.05,
+  "CTIPN": "WA04X000PTL"
+ },
+ {
+  "customerPN": "M110M1C1000",
+  "spec": "CAP,MLCC,2pF\/50V,±0.25pF,NPO,SMD0402",
+  "price": 0.016,
+  "CTIPN": "0402N2R0C500"
+ },
+ {
+  "customerPN": "M110M1C1001",
+  "spec": "CAP,MLCC,2.2pF\/50V,±0.25PF,NPO,SMD0402",
+  "price": 0.015,
+  "CTIPN": "0402N2R2C500"
+ },
+ {
+  "customerPN": "M110M1J1000",
+  "spec": "CAP,MLCC,20pF\/50V,±5%,NPO,SMD0402",
+  "price": 0.016,
+  "CTIPN": "0402N200J500"
+ },
+ {
+  "customerPN": "M110M1J1001",
+  "spec": "CAP,MLCC,33pF\/50V,±5%,NPO,SMD0402",
+  "price": 0.015,
+  "CTIPN": "0402N330J500"
+ },
+ {
+  "customerPN": "M110M1K2000",
+  "spec": "CAP,MLCC,1000pF\/50V,±10%,X7R,SMD0402",
+  "price": 0.012,
+  "CTIPN": "0402B102K500"
+ },
+ {
+  "customerPN": "M110M1K2004",
+  "spec": "CAP,MLCC,0.01uF\/16V,±10%,X7R,SMD0402",
+  "price": 0.012,
+  "CTIPN": "0402B103K160"
+ },
+ {
+  "customerPN": "M110M1K2008",
+  "spec": "CAP,MLCC,10nF\/50V,±10%,X7R,SMD0402",
+  "price": 0.012,
+  "CTIPN": "0402B103K500"
+ },
+ {
+  "customerPN": "M110M1K2009",
+  "spec": "CAP,MLCC,2200pF\/50V,±10%,X7R,SMD0402",
+  "price": 0.015,
+  "CTIPN": "0402B222K500"
+ },
+ {
+  "customerPN": "M110M1K2011",
+  "spec": "CAP,MLCC,220pF\/50V,±10%,X7R,SMD0402",
+  "price": 0.015,
+  "CTIPN": "0402B221K500"
+ },
+ {
+  "customerPN": "M111M1J1002",
+  "spec": "CAP,MLCC,4.7pF\/50V,±5%,NPO,SMD0603",
+  "price": 0.06,
+  "CTIPN": "0603N4R7B500"
+ },
+ {
+  "customerPN": "M111M1J1003",
+  "spec": "CAP,MLCC,1000pF\/50V,±5%,NPO,SMD0603",
+  "price": 0.09,
+  "CTIPN": "0603N102J500"
+ },
+ {
+  "customerPN": "M111M1J1007",
+  "spec": "CAP,MLCC,12pF\/50V,±5%,NPO,SMD0603",
+  "price": 0.04,
+  "CTIPN": "0603N120J500"
+ },
+ {
+  "customerPN": "M111M1J1009",
+  "spec": "CAP,MLCC,15pF\/50V,±5%,NPO,SMD0603",
+  "price": 0.04,
+  "CTIPN": "0603N150J500"
+ },
+ {
+  "customerPN": "M111M1J1019",
+  "spec": "CAP,MLCC,33pF\/50V,±5%,NPO,SMD0603",
+  "price": 0.04,
+  "CTIPN": "0603N330J500"
+ },
+ {
+  "customerPN": "M111M1J1022",
+  "spec": "CAP,MLCC,18pF\/50V,±5%,NPO,SMD0603",
+  "price": 0.04,
+  "CTIPN": "0603N180J500"
+ },
+ {
+  "customerPN": "M111M1K2000",
+  "spec": "CAP,MLCC,4700pF\/50V,±10%,X7R,SMD0603",
+  "price": 0.04,
+  "CTIPN": "0603B472K500"
+ },
+ {
+  "customerPN": "M111M1K2017",
+  "spec": "CAP,MLCC,0.01uF\/50V,±10%,X7R,SMD0603",
+  "price": 0.031,
+  "CTIPN": "0603B103K500"
+ },
+ {
+  "customerPN": "M111M1K5001",
+  "spec": "CAP,MLCC,1uF\/16V,±10%,X5R,SMD0603",
+  "price": 0.077,
+  "CTIPN": "0603X105K160"
+ },
+ {
+  "customerPN": "M111M1K5002",
+  "spec": "CAP,MLCC,2.2uF\/10V,±10%,X5R,SMD0603",
+  "price": 0.1,
+  "CTIPN": "0603X225K100"
+ },
+ {
+  "customerPN": "M111M1M5000",
+  "spec": "CAP,MLCC,10uF\/6.3V,±20%,X5R,SMD0603",
+  "price": 0.15,
+  "CTIPN": "CE JMK107 BJ106MA-T"
+ },
+ {
+  "customerPN": "M112M1K2006",
+  "spec": "CAP,MLCC,1uF\/25V,±10%,X7R,SMD0805",
+  "price": 0.168,
+  "CTIPN": "0805B105K250"
+ },
+ {
+  "customerPN": "M112M1M5001",
+  "spec": "CAP,MLCC,47uF\/6.3V,±20%,X5R,SMD0805",
+  "price": 0.7,
+  "CTIPN": "CE JMK212BBJ476MG-T"
+ },
+ {
+  "customerPN": "M113M1K2009",
+  "spec": "CAP,MLCC,0.001uF\/2KV,±10%,X7R,SMD1206",
+  "price": 0.17,
+  "CTIPN": "1206B102K202"
+ },
+ {
+  "customerPN": "M113M1K2012",
+  "spec": "CAP,MLCC,1uF\/100V,±10%,X7R,SMD1206",
+  "price": 0.47,
+  "CTIPN": "1206B105K101"
+ },
+ {
+  "customerPN": "M117M1K2004",
+  "spec": "CAP,MLCC,22uF\/25V,±10%,X7R,SMD1210",
+  "price": 3,
+  "CTIPN": "CE TMK325 B7226KMHP"
+ }
+]
