@@ -1,0 +1,22 @@
+<div class="container">
+    <p class="h1 mt-5 mx-auto text-center" style="width: 300px;">料號翻譯機 註冊頁面</p>
+    <form class="register-form w-50 mx-auto mt-5" action="/register" method="POST">
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" name="email" placeholder="請輸入email" required="required">
+        </div>
+        <div class="mb-3">
+            <label for="username" class="form-label">Username</label>
+            <input type="text" class="form-control" id="username" name="username" placeholder="請輸入使用者名稱" required="required">
+        </div>
+        <div class="mb-3">
+            <label for="password" class="form-label">密碼</label>
+            <input type="password" class="form-control" id="password" name="password" placeholder="請輸入密碼" required="required">
+        </div>
+        <div class="mt-5 btn-container d-flex justify-content-between">
+            <button type="submit" class="btn btn-primary">註冊</button>
+            <a href="/" class="btn btn-primary">已有帳號</a>
+        </div>
+
+    </form>
+</div>

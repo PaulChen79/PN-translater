@@ -1,0 +1,22 @@
+<div class="container">
+    <p class="h1 mt-5 mx-auto text-center" style="width: 300px;">編輯料號</p>
+    <form action="/products/{{pn._id}}?_method=PUT" method="POST" class="w-50 mx-auto mt-5">
+        <div class="mb-3">
+            <label for="customerPN" class="form-label">客戶料號</label>
+            <input type="text" class="form-control" id="customerPN" name="customerPN" value="{{pn.customerPN}}">
+        </div>
+        <div class="mb-3">
+            <label for="spec" class="form-label">規格</label>
+            <input type="text" class="form-control" id="spec" name="spec" value="{{pn.spec}}">
+        </div>
+        <div class="mb-3">
+            <label for="CTIPN" class="form-label">規格</label>
+            <input type="text" class="form-control" id="CTIPN" name="CTIPN" value="{{pn.CTIPN}}">
+        </div>
+        <div class="mb-3">
+            <label for="price" class="form-label">單價</label>
+            <input type="text" class="form-control" id="price" name="price" value="{{pn.price}}">
+        </div>
+        <button type="submit" class="btn btn-primary">儲存</button>
+    </form>
+</div>

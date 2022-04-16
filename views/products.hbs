@@ -1,0 +1,65 @@
+<div class="container">
+    <p class="h1 mt-5 mx-auto text-center" style="width: 300px;">料號資料</p>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mt-5">
+        <div class="container-fluid">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">選擇客戶</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">客戶A</a></li>
+                            <li><a class="dropdown-item" href="#">客戶B</a></li>
+                            <li><a class="dropdown-item" href="#">客戶C</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="mt-2 btn-container d-flex justify-content-end">
+        <input class="form-control mx-1 w-25" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success mx-1" type="submit">搜尋</button>
+        <a class="btn btn-primary mx-3" href="/new">新增</a>
+        <a class="btn btn-primary" href="/login">登出</a>
+    </div>
+    <div class="info-container mt-5">
+        <table class="table caption-top">
+            <thead>
+                <tr>
+                    <th scope="col">選取</th>
+                    <th scope="col">客戶料號</th>
+                    <th scope="col">規格</th>
+                    <th scope="col">公司料號</th>
+                    <th scope="col">單價</th>
+                    <th scope="col" class="text-center">編輯</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each pn}}
+                <tr>
+                    <th scope="row">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                            <label class="form-check-label" for="flexCheckDefault">
+                            </label>
+                        </div>
+                    </th>
+                    <td>{{this.customerPN}}</td>
+                    <td>{{this.spec}}</td>
+                    <td>{{this.CTIPN}}</td>
+                    <td>{{this.price}}</td>
+                    <td class="d-flex justify-content-center">
+                        <form action="/products/{{this._id}}" method="GET" class="mx-3">
+                            <button type="submit" class="btn btn-primary">修改</button>
+                        </form>
+                        <form action="/products/{{this._id}}?_method=DELETE" method="POST">
+                            <button type="submit" class="btn btn-danger">刪除</button>
+                        </form>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+</div>
