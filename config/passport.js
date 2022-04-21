@@ -2,7 +2,7 @@ const passport = require("passport")
 const bycrypt = require("bcryptjs")
 const localStrategy = require("passport-local").Strategy
 const FacebookStrategy = require("passport-facebook").Strategy
-  // const GoogleStrategy = require("passport-google-oauth").GoogleStrategy
+const GoogleStrategy = require("passport-google-oauth2").Strategy
 
 const User = require("../models/user")
 
@@ -36,6 +36,25 @@ module.exports = (app) => {
     callbackURL: process.env.FACEBOOK_CALLBACK,
     profileFields: ["email", "displayName"]
   }, (accessToken, refreshToken, profile, done) => {
+    const { name, email } = profile._json
+    User.findOne({ email })
+      .then(user => {
+        if (user) return done(null, user)
+        const randomPassword = Math.random().toString(36).slice(-8)
+        bycrypt.genSalt(10)
+          .then(salt => bycrypt.hash(randomPassword, salt))
+          .then(hash => User.create({ username: name, email, password: hash }))
+          .then(user => done(null, user))
+          .catch(error => console.log(error))
+      })
+  }))
+
+  passport.use(new GoogleStrategy({
+    clientID: process.env.GOOGLE_ID,
+    clientSecret: process.env.GOOGLE_SECRET,
+    callbackURL: process.env.GOOGLE_CALLBACK,
+    passReqToCallback: true
+  }, (req, accessToken, refreshToken, profile, done) => {
     const { name, email } = profile._json
     User.findOne({ email })
       .then(user => {
