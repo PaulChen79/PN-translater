@@ -1,6 +1,7 @@
 <div class="container">
     <p class="h1 mt-5 mx-auto text-center" style="width: 300px;">料號翻譯機</p>
-    <form action="/" method="post" class="login-form w-50 mx-auto mt-5">
+    {{> message}}
+    <form action="/users/login" method="post" class="login-form w-50 mx-auto mt-5">
         <div class="mb-3">
             <label for="email" class="form-label">Email</label>
             <input type="email" class="form-control" id="email" name="email" placeholder="請輸入email" required="required">
@@ -9,9 +10,12 @@
             <label for="password" class="form-label">密碼</label>
             <input type="password" class="form-control" id="password" name="password" placeholder="請輸入密碼" required="required">
         </div>
-        <div class="mt-5 btn-container d-flex justify-content-between">
+        <div class="mt-5 btn-container">
             <button type="submit" class="btn btn-primary" id="login">登入</button>
-            <a href="/register" class="btn btn-primary" id="register">註冊</a>
+            <a href="/auth/facebook" class="btn btn-info" id="register">Facebook登入</a>
+            <p class="lead mt-4">
+                沒有帳號? <a href="/users/register" class="text-decoration-none">按此註冊</a>
+            </p>
         </div>
     </form>
 </div>

@@ -1,14 +1,15 @@
-const express = require('express');
-const router = express.Router();
-const login = require('./modules/login')
-const register = require('./modules/register')
+const express = require('express')
+const router = express.Router()
+const home = require('./modules/home')
 const products = require('./modules/products')
-const newPN = require('./modules/new')
+const users = require('./modules/users')
+const auth = require("./modules/auth")
+const { authenticator } = require('../middleware/auth')
 
-router.use("/", login)
-router.use("/register", register)
-router.use("/products", products)
-router.use("/new", newPN)
+router.use('/products', authenticator, products)
+router.use("/auth", auth)
+router.use('/users', users)
+router.use('/', authenticator, home)
 
 
 module.exports = router
